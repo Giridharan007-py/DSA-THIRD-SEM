@@ -10,7 +10,7 @@ private:
     int size;
 
 public:
-    // Constructor
+    // ConstructoR
     Array()
     {
         size = 0;
