@@ -142,7 +142,7 @@ int main()
 
     do
     {
-        cout << "\n===== ARRAY ADT MENU =====" << endl;
+        cout << "\n      ARRAY ADT MENU      " << endl;
         cout << "1. Read Array" << endl;
         cout << "2. Insert Element" << endl;
         cout << "3. Delete Element" << endl;
